@@ -1,0 +1,6 @@
+C:\Users\X1 Carbon\source\repos\HelloWorld\Code Snippet 14\bin\Debug\Code Snippet 14.exe.config
+C:\Users\X1 Carbon\source\repos\HelloWorld\Code Snippet 14\bin\Debug\Code Snippet 14.exe
+C:\Users\X1 Carbon\source\repos\HelloWorld\Code Snippet 14\bin\Debug\Code Snippet 14.pdb
+C:\Users\X1 Carbon\source\repos\HelloWorld\Code Snippet 14\obj\Debug\Code Snippet 14.csproj.CoreCompileInputs.cache
+C:\Users\X1 Carbon\source\repos\HelloWorld\Code Snippet 14\obj\Debug\Code Snippet 14.exe
+C:\Users\X1 Carbon\source\repos\HelloWorld\Code Snippet 14\obj\Debug\Code Snippet 14.pdb

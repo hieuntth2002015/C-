@@ -1,0 +1,6 @@
+C:\Users\X1 Carbon\source\repos\HelloWorld\Code Snppit 19\bin\Debug\Code Snppit 19.exe.config
+C:\Users\X1 Carbon\source\repos\HelloWorld\Code Snppit 19\bin\Debug\Code Snppit 19.exe
+C:\Users\X1 Carbon\source\repos\HelloWorld\Code Snppit 19\bin\Debug\Code Snppit 19.pdb
+C:\Users\X1 Carbon\source\repos\HelloWorld\Code Snppit 19\obj\Debug\Code Snppit 19.csproj.CoreCompileInputs.cache
+C:\Users\X1 Carbon\source\repos\HelloWorld\Code Snppit 19\obj\Debug\Code Snppit 19.exe
+C:\Users\X1 Carbon\source\repos\HelloWorld\Code Snppit 19\obj\Debug\Code Snppit 19.pdb

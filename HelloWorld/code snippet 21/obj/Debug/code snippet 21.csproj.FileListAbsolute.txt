@@ -1,0 +1,7 @@
+C:\Users\X1 Carbon\source\repos\HelloWorld\code snippet 21\bin\Debug\code snippet 21.exe.config
+C:\Users\X1 Carbon\source\repos\HelloWorld\code snippet 21\bin\Debug\code snippet 21.exe
+C:\Users\X1 Carbon\source\repos\HelloWorld\code snippet 21\bin\Debug\code snippet 21.pdb
+C:\Users\X1 Carbon\source\repos\HelloWorld\code snippet 21\obj\Debug\code snippet 21.csprojAssemblyReference.cache
+C:\Users\X1 Carbon\source\repos\HelloWorld\code snippet 21\obj\Debug\code snippet 21.csproj.CoreCompileInputs.cache
+C:\Users\X1 Carbon\source\repos\HelloWorld\code snippet 21\obj\Debug\code snippet 21.exe
+C:\Users\X1 Carbon\source\repos\HelloWorld\code snippet 21\obj\Debug\code snippet 21.pdb
