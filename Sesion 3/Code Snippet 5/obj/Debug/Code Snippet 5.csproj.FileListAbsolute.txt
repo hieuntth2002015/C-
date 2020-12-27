@@ -1,0 +1,6 @@
+C:\Users\X1 Carbon\source\repos\Sesion 3\Code Snippet 5\bin\Debug\Code Snippet 5.exe.config
+C:\Users\X1 Carbon\source\repos\Sesion 3\Code Snippet 5\bin\Debug\Code Snippet 5.exe
+C:\Users\X1 Carbon\source\repos\Sesion 3\Code Snippet 5\bin\Debug\Code Snippet 5.pdb
+C:\Users\X1 Carbon\source\repos\Sesion 3\Code Snippet 5\obj\Debug\Code Snippet 5.csproj.CoreCompileInputs.cache
+C:\Users\X1 Carbon\source\repos\Sesion 3\Code Snippet 5\obj\Debug\Code Snippet 5.exe
+C:\Users\X1 Carbon\source\repos\Sesion 3\Code Snippet 5\obj\Debug\Code Snippet 5.pdb
