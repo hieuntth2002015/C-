@@ -1,0 +1,2 @@
+C:\Users\X1 Carbon\source\repos\Lab3\Code snippet 1\obj\Debug\Code snippet 1.csprojAssemblyReference.cache
+C:\Users\X1 Carbon\source\repos\Lab3\Code snippet 1\obj\Debug\Code snippet 1.csproj.CoreCompileInputs.cache

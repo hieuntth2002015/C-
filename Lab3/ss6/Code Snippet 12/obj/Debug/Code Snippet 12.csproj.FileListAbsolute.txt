@@ -1,0 +1,6 @@
+C:\Users\X1 Carbon\source\repos\Lab3\Code Snippet 12\bin\Debug\Code Snippet 12.exe.config
+C:\Users\X1 Carbon\source\repos\Lab3\Code Snippet 12\bin\Debug\Code Snippet 12.exe
+C:\Users\X1 Carbon\source\repos\Lab3\Code Snippet 12\bin\Debug\Code Snippet 12.pdb
+C:\Users\X1 Carbon\source\repos\Lab3\Code Snippet 12\obj\Debug\Code Snippet 12.csproj.CoreCompileInputs.cache
+C:\Users\X1 Carbon\source\repos\Lab3\Code Snippet 12\obj\Debug\Code Snippet 12.exe
+C:\Users\X1 Carbon\source\repos\Lab3\Code Snippet 12\obj\Debug\Code Snippet 12.pdb

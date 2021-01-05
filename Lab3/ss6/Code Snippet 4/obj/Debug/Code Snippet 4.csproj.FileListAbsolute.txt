@@ -1,0 +1,6 @@
+C:\Users\X1 Carbon\source\repos\Lab3\Code Snippet 4\bin\Debug\Code Snippet 4.exe.config
+C:\Users\X1 Carbon\source\repos\Lab3\Code Snippet 4\bin\Debug\Code Snippet 4.exe
+C:\Users\X1 Carbon\source\repos\Lab3\Code Snippet 4\bin\Debug\Code Snippet 4.pdb
+C:\Users\X1 Carbon\source\repos\Lab3\Code Snippet 4\obj\Debug\Code Snippet 4.csproj.CoreCompileInputs.cache
+C:\Users\X1 Carbon\source\repos\Lab3\Code Snippet 4\obj\Debug\Code Snippet 4.exe
+C:\Users\X1 Carbon\source\repos\Lab3\Code Snippet 4\obj\Debug\Code Snippet 4.pdb

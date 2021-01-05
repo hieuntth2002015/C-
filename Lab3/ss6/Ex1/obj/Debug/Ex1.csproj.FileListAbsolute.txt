@@ -1,0 +1,2 @@
+C:\Users\X1 Carbon\source\repos\Lab3\Ex1\obj\Debug\Ex1.csprojAssemblyReference.cache
+C:\Users\X1 Carbon\source\repos\Lab3\Ex1\obj\Debug\Ex1.csproj.CoreCompileInputs.cache
