@@ -1,0 +1,7 @@
+C:\Users\X1 Carbon\source\repos\lab5\CatAnimals\obj\Debug\CatAnimals.csprojAssemblyReference.cache
+C:\Users\X1 Carbon\source\repos\lab5\CatAnimals\obj\Debug\CatAnimals.csproj.CoreCompileInputs.cache
+C:\Users\X1 Carbon\source\repos\lab5\CatAnimals\bin\Debug\CatAnimals.exe.config
+C:\Users\X1 Carbon\source\repos\lab5\CatAnimals\bin\Debug\CatAnimals.exe
+C:\Users\X1 Carbon\source\repos\lab5\CatAnimals\bin\Debug\CatAnimals.pdb
+C:\Users\X1 Carbon\source\repos\lab5\CatAnimals\obj\Debug\CatAnimals.exe
+C:\Users\X1 Carbon\source\repos\lab5\CatAnimals\obj\Debug\CatAnimals.pdb
