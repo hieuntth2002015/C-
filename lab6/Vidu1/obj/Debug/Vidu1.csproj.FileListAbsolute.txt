@@ -1,0 +1,7 @@
+C:\Users\X1 Carbon\source\repos\lab6\Vidu1\bin\Debug\Vidu1.exe.config
+C:\Users\X1 Carbon\source\repos\lab6\Vidu1\bin\Debug\Vidu1.exe
+C:\Users\X1 Carbon\source\repos\lab6\Vidu1\bin\Debug\Vidu1.pdb
+C:\Users\X1 Carbon\source\repos\lab6\Vidu1\obj\Debug\Vidu1.csprojAssemblyReference.cache
+C:\Users\X1 Carbon\source\repos\lab6\Vidu1\obj\Debug\Vidu1.csproj.CoreCompileInputs.cache
+C:\Users\X1 Carbon\source\repos\lab6\Vidu1\obj\Debug\Vidu1.exe
+C:\Users\X1 Carbon\source\repos\lab6\Vidu1\obj\Debug\Vidu1.pdb
