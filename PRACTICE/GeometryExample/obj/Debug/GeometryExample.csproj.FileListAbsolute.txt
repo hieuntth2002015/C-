@@ -1,0 +1,7 @@
+C:\Users\X1 Carbon\source\repos\PRACTICE\GeometryExample\obj\Debug\GeometryExample.csprojAssemblyReference.cache
+C:\Users\X1 Carbon\source\repos\PRACTICE\GeometryExample\obj\Debug\GeometryExample.csproj.CoreCompileInputs.cache
+C:\Users\X1 Carbon\source\repos\PRACTICE\GeometryExample\bin\Debug\GeometryExample.exe.config
+C:\Users\X1 Carbon\source\repos\PRACTICE\GeometryExample\bin\Debug\GeometryExample.exe
+C:\Users\X1 Carbon\source\repos\PRACTICE\GeometryExample\bin\Debug\GeometryExample.pdb
+C:\Users\X1 Carbon\source\repos\PRACTICE\GeometryExample\obj\Debug\GeometryExample.exe
+C:\Users\X1 Carbon\source\repos\PRACTICE\GeometryExample\obj\Debug\GeometryExample.pdb
